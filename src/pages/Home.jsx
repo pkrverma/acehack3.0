@@ -62,7 +62,7 @@ const Home = () => {
               className="flex h-full w-full justify-center items-center text-xl font-semibold"
               target={"_blank"}
             >
-              <img src="../../public/DevfolioSquare.png" alt="Devfolio" className="w-8 h-8" />
+              <img src="assets/DevfolioSquare.png" alt="Devfolio" className="w-8 h-8" />
               <p>Go to projects</p>
             </a>
           </div>
