@@ -71,7 +71,7 @@ const Home = () => {
             style={{ height: "44px", width: "312px" }}
           >
             <a
-              href="https://linktr.ee/acehack3"
+              href="https://linktr.ee/acehack4"
               className="flex h-full w-full justify-center items-center text-xl font-semibold"
               target={"_blank"}
             >
