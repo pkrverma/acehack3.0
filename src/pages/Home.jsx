@@ -54,15 +54,16 @@ const Home = () => {
             style={{ height: "44px", width: "312px" }}
           ></div> */}
           <div
-            className="bg-violet-500 rounded-md hover:bg-violet-600"
+            className="bg-violet-500 rounded-md hover:bg-violet-600" id= "devfolioButton"
             style={{ height: "44px", width: "312px" }}
           >
             <a
-              href="https://acehack-3.devfolio.co/"
+              href="https://acehack-3.devfolio.co/projects"
               className="flex h-full w-full justify-center items-center text-xl font-semibold"
               target={"_blank"}
             >
-              <p>Apply with Devfolio &nbsp; </p>
+              <img src="../../public/DevfolioSquare.png" alt="Devfolio" className="w-8 h-8" />
+              <p>Go to projects</p>
             </a>
           </div>
           <div
